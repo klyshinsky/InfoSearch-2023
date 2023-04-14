@@ -7,3 +7,7 @@ Course in Information Retrieval
 
 [Лекция](https://github.com/klyshinsky/InfoSearch-2023/blob/main/Lecture20230325_W2V_Bert.ipynb) по векторным пространствам для текста.
 
+[Лекция](https://github.com/klyshinsky/InfoSearch-2023/blob/main/Lecture_XML.ipynb) по обработке XML/HTML
+
+[Лекция](https://github.com/klyshinsky/InfoSearch-2023/blob/main/Lecture_20230407_2_requests.ipynb) - лекция по скрапингу сайтов.
+
