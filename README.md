@@ -11,3 +11,4 @@ Course in Information Retrieval
 
 [Лекция](https://github.com/klyshinsky/InfoSearch-2023/blob/main/Lecture_20230407_2_requests.ipynb) - лекция по скрапингу сайтов.
 
+[Лекция](https://github.com/klyshinsky/InfoSearch-2023/blob/main/Lecture_3_collocations.ipynb) - неоднословные термины.
